@@ -12,8 +12,8 @@ keep_files:
   - ".gitignore"
 
 # Site settings
-title: Airspace
-subtitle: "A free HTML5 agency template"
+title: Cyfrowa transformacja
+subtitle: "Wejdź w cyfrową transformację z nami i odkryj, jak technologia może zmienić Twoją firmę na lepsze."
 url: "http://ndrewtl.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: "/airspace-jekyll"
@@ -28,8 +28,8 @@ markdown: kramdown
 
 # Category descriptions (for archive pages)
 descriptions:
-  - cat: jekyll
-    desc: "Posts describing Jekyll setup techniques."
+  - cat: transformacja
+    desc: "Jak przygotować się do cyfrowej transformacji? Jakie są jej etapy i jakie korzyści może przynieść Twojej firmie?"
 
-  - cat: dummy
-    desc: "Just some placeholder posts, lorem ipsum and the rest."
+  - cat: dotacje
+    desc: "Jakie dotacje są dostępne dla firm w kontekście cyfrowej transformacji?"
